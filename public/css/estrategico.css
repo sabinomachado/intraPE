@@ -1,0 +1,57 @@
+.body{
+    margin-left: 8%;
+    margin-right: 5%;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.notice {
+    padding: 15px;
+    background-color: #fafafa;
+    border-left: 6px solid #7f7f84;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+       -moz-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+            box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+}
+
+.notice-sm {
+    padding: 10px;
+    font-size: 80%;
+}
+
+.notice-blue {
+    border-color: #45ABCD;
+}
+
+.notice-red {
+    border-color:#c73636;
+}
+
+.notice-yellow {
+    border-color:#fffc4f;
+}
+
+.notice-orange {
+    border-color:#fc8105;
+}
+
+.notice-green {
+    border-color:#34b102;
+}
+
+.notice-vencido {
+    border-color: grey;
+}
+
+.titulo-meta .titulo{
+    text-align: center;
+
+}
+
+.vencido {
+    text-align: center;
+    color: red;
+}

@@ -1,0 +1,20 @@
+.jumbotron {
+
+    margin-left: 8%;
+    margin-right: 8%;
+  }
+
+.TabelaPontos{
+    margin-left: 8%;
+    margin-right: 8%;
+
+}
+
+.SelecionaData{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#testeBg{
+    background-color: chartreuse;
+}
